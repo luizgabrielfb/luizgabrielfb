@@ -2,9 +2,7 @@
 <h3 align="center">Estudante de Ciência da Computação na UNIESP</h3>
 
 - 🌱 Estou aprendendo atualmente **javascript Php C++**
-
-- 👨‍💻 Meu portfolio [https://www.figma.com/proto/VPDn2wAJN4n2wUrPPHh701/LUIZ-GABRIEL-WEBSITE?node-id=1-2&t=2TIwwEiUQo2c5s7i-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2](https://www.figma.com/proto/VPDn2wAJN4n2wUrPPHh701/LUIZ-GABRIEL-WEBSITE?node-id=1-2&t=2TIwwEiUQo2c5s7i-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
-
+- 🐧 Linux dev
 - 📫 Onde você pode me contatar **Luizgabrielfbarros@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -18,3 +16,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizgabrielfb&show_icons=true&locale=en&layout=compact" alt="luizgabrielfb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luizgabrielfb&" alt="luizgabrielfb" /></p>
+
+<div class="tenor-gif-embed" data-postid="25074749" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/linux-computer-os-ghosth-cyber-gif-25074749">Linux Computer Sticker</a>from <a href="https://tenor.com/search/linux-stickers">Linux Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
