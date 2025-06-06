@@ -17,4 +17,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luizgabrielfb&" alt="luizgabrielfb" /></p>
 
-<div class="tenor-gif-embed" data-postid="25074749" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/linux-computer-os-ghosth-cyber-gif-25074749">Linux Computer Sticker</a>from <a href="https://tenor.com/search/linux-stickers">Linux Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![linux-computer](https://github.com/user-attachments/assets/bc60fd76-8320-4d87-b06d-9fd087b0d340)
